@@ -18,6 +18,18 @@ Il intègre deux **design patterns** de création GoF :
 3. [Logique métier & workflow de création](#logique-métier--workflow-de-création)
 4. [Étapes de mise en place](#étapes-de-mise-en-place)
 5. [Installation & déploiement](#installation--déploiement)
+6. [Développement](#developpement)
+
+    * [Mise en place de l’environnement](#1-mise-en-place-de-lenvironnement)
+    * [Modélisation des données et patterns de création](#2-modélisation-des-données-et-patterns-de-création)
+    * [Logique métier et services](#3-logique-métier-et-services)
+    * [API REST et contrôle d’accès](#4-api-rest-et-contrôle-daccès)
+    * [Front-end et interfaces utilisateur](#5-front-end-et-interfaces-utilisateur)
+    * [Tests et qualité](#6-tests-et-qualité)
+    * [Déploiement](#7-déploiement)
+
+#### Notre cahier des charges
+* [Cahier des charges](https://docs.google.com/document/d/1b4Wfzt-g1qBmFB5ua7CODL8pP_dwoN67wtro0NQ5cj0/edit?usp=sharing)
 
 ---
 
