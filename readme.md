@@ -1,7 +1,3 @@
-Voici un **README.md** complet pour présenter votre projet de système de planning générique, avec les diagrammes, la logique et le workflow de création, ainsi que les étapes de mise en place.
-
----
-
 ## Aperçu du projet
 
 Ce projet propose un **système de planning générique** pour toute organisation (entreprise, hôpital, administration…), permettant de gérer utilisateurs, tâches, départements et plannings de manière découplée et extensible.
@@ -192,5 +188,3 @@ Il intègre deux **design patterns** de création GoF :
     * Front-end : `npm run build` → fichiers statiques (servir via Nginx ou Spring Boot)
 
 ---
-
-Ce README fournit un aperçu complet du projet, des patterns employés, du workflow de création et des étapes pour démarrer. N’hésitez pas à adapter les sections selon votre contexte et à ajouter des exemples de code ou captures d’écran front-end !
